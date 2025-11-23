@@ -8,7 +8,7 @@ app.use(cors());
 
 // --- CONFIGURATION ---
 // Replace with your actual GitHub username and repo name
-const GITHUB_BASE_URL = "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/newb-shader-data/main";
+const GITHUB_BASE_URL = "https://raw.githubusercontent.com/Pixelboy79/newb-shader-repo/main";
 
 // --- CACHE (Simple In-Memory) ---
 // Prevents hitting GitHub limits by storing data for 5 minutes
